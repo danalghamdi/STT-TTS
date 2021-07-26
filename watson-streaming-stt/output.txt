@@ -1,0 +1,23 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\Lenovo\OneDrive\PC\سطح المكتب\STT\practice\watson-streaming-stt> python transcribe.py -t 5
+* recording
+do you want to 
+need to know 
+need to know the 
+need to know that a 
+need to know the data 
+need to know the data 
+need to know the direction 
+need to know the direction 
+need to know the directions 
+need to know the directions 
+need to know the directions 
+need to know the directions 
+need to know the directions 
+* done recording
+need to know the directions 
+PS C:\Users\Lenovo\OneDrive\PC\سطح المكتب\STT\practice\watson-streaming-stt> 
